@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/enen92/inputstream.adaptive Matrix
+inputstream.adaptive https://github.com/enen92/inputstream.adaptive Nexus
